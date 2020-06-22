@@ -30,7 +30,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class SimpleNfcActivity extends Activity implements OnClickListener{
-	public static final String TAG = "NFC Training";
+	public static final String TAG = "NFC Tag";
 	
 	Button mWriteButton;
 	AlertDialog mWriteDialog;
